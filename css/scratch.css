@@ -1,0 +1,30 @@
+head{
+    font-family: fantasy;
+    font-size: large;
+}
+body{
+    font-family: fantasy;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(230, 176, 137);
+}
+img{
+    margin:auto
+}
+.centered{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.left-aligned{
+    text-align: left;
+    color: rgb(124, 46, 1);
+}
+.title{
+    font-size: larger;
+    color:rgb(27, 27, 79)
+}
+a{
+    color:rgb(0, 0, 156);
+    text-decoration: underline;   
+}
